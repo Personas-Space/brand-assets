@@ -33,13 +33,15 @@
   </metadata>
   <g
      id="layer1">
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="P"
+       transform="matrix(25.755119,0,0,25.755119,-647.48254,-823.75441)"
        id="text10"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Monoton;-inkscape-font-specification:'Monoton, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect12);fill:#00ffcc;fill-opacity:1;stroke:none;stroke-width:0.0388273;"
-       transform="matrix(25.755119,0,0,25.755119,-647.48254,-823.75441)"><tspan
-         x="25.703125"
-         y="41.399418"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Monoton;-inkscape-font-specification:'Monoton, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffcc;stroke-width:0.0388273">P</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:6.61458px;font-family:Monoton;-inkscape-font-specification:'Monoton, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect12);fill:#00ffcc;fill-opacity:1;stroke:none;stroke-width:0.0388273">
+      <path
+         d="m 29.077585,37.347999 h 2.160068 q 0.532266,0 0.899167,-0.356566 0.372069,-0.361734 0.372069,-1.018023 0,-0.490924 -0.387572,-0.878496 -0.387572,-0.39274 -0.883664,-0.39274 H 28.04406 v 6.697244 h -0.372069 v -7.069313 h 3.565662 q 0.651121,0 1.147213,0.50126 0.496093,0.50126 0.496093,1.142045 0,0.790647 -0.48059,1.271237 -0.480589,0.475421 -1.162716,0.475421 h -2.160068 z m 0,0.744138 h 2.160068 q 0.537433,0 0.992185,-0.258381 0.459918,-0.263549 0.73897,-0.754473 0.28422,-0.490925 0.28422,-1.105873 0,-0.795814 -0.60978,-1.405594 -0.604613,-0.60978 -1.405595,-0.60978 h -3.937731 v 7.441382 h -0.372069 v -7.813451 h 4.3098 q 0.625283,0 1.178219,0.330728 0.552936,0.330728 0.878497,0.883664 0.330728,0.552936 0.330728,1.173051 0,0.702798 -0.330728,1.281572 -0.330728,0.573606 -0.878497,0.893999 -0.542601,0.315225 -1.178219,0.315225 h -2.160068 z m 0,0.744139 h 2.160068 q 0.552936,0 1.059364,-0.217041 0.506427,-0.222208 0.878496,-0.594277 0.377237,-0.377237 0.599445,-0.909502 0.222208,-0.537433 0.222208,-1.142046 0,-0.723467 -0.377237,-1.359085 -0.377237,-0.640786 -1.018022,-1.018023 -0.635618,-0.382404 -1.364254,-0.382404 h -4.68187 v 8.18552 h -0.372069 v -8.557589 h 5.053939 q 0.826821,0 1.550288,0.43408 0.723468,0.428913 1.152381,1.152381 0.428913,0.723468 0.428913,1.54512 0,0.733803 -0.253214,1.353919 -0.253213,0.614947 -0.682126,1.02319 -0.428913,0.408242 -0.997352,0.635618 -0.568439,0.222208 -1.19889,0.222208 h -2.160068 z m -0.289387,2.563142 h -0.372069 v -6.325175 h 2.821524 q 0.366902,0 0.630451,0.268717 0.268716,0.268717 0.268716,0.63045 0,1.00252 -0.899167,1.00252 h -2.160068 v -0.372069 h 2.160068 q 0.248046,0 0.387572,-0.139526 0.139526,-0.139526 0.139526,-0.490925 0,-0.227375 -0.155029,-0.377236 -0.149861,-0.149862 -0.372069,-0.149862 h -2.449455 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Monoton;-inkscape-font-specification:'Monoton, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ffcc;stroke-width:0.0388273"
+         id="path1434" />
+    </g>
   </g>
 </svg>
